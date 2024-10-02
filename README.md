@@ -1,7 +1,7 @@
 **PROJECT ABSTRACT:**<br>
 This project is a Django-based web application that allows users to submit details related to book purchases, including personal information and order specifics. The form captures key data such as the user’s name, contact number, address, book details, and the total amount paid. Once the user submits the form, the information is validated, saved to the database, and displayed on a result page.<br>
 
-**Key features:**<br>
+**KEY FEATURES:**<br>
 **1.Data Capture:** The form collects essential details such as name, contact number, address, book title, the number of books purchased, and the total amount.<br>
 **2.Data Validation:** Checks are in place to ensure all required fields (name, contact, address, books, amount, and the number of books) are provided before saving<br>
 **3.Database Storage:** Collected data is stored in a MySQL (or other supported) database using Django's ORM.<br>
